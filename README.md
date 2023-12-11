@@ -6,7 +6,7 @@ The **bookmanagement** project is a Node.js application for managing books. It p
 
 ## Installation
 
-Before running the application, make sure you have Node.js and npm installed. Then, follow these steps:
+Before running the application, make sure you have Node.js and npm installed. Then, follow these :
 
 ```bash
 git clone https://github.com/Ayushstu/BookStore.git
